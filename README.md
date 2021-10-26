@@ -27,3 +27,5 @@ These were easy also, I realized it was easier for me to sketch it as a circle a
 
 # Puting it all together description
 This took a while until I realized it is best to do the mirror on simular parts with the bolts.
+
+![image](https://user-images.githubusercontent.com/71349802/138946203-980d0098-3bb8-4afd-b215-9adea8609d87.png)
