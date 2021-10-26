@@ -23,5 +23,7 @@ These were easy, I ran into a few problems with puting on the cross thing that c
 # Wheels and bearings description
 These were easy also, I realized it was easier for me to sketch it as a circle and extrude.
 
+![image](https://user-images.githubusercontent.com/71349802/138946103-a96a1e84-e7b5-4fc4-8934-8dae42099b84.png)
+
 # Puting it all together description
 This took a while until I realized it is best to do the mirror on simular parts with the bolts.
